@@ -1,0 +1,17 @@
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.deps.json
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.AppService.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajaNet.DomainService.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.Helpers.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.AppService.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajaNet.DomainService.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.Helpers.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\bin\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajaNet.Kernel\obj\Debug\netcoreapp2.0\MyTestViajaNet.Kernel.pdb

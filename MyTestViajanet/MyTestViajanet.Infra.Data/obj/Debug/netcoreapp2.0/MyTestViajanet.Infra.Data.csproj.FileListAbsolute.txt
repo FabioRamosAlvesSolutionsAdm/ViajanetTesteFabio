@@ -1,0 +1,13 @@
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.deps.json
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajaNet.DomainService.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajanet.Helpers.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajaNet.DomainService.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\bin\Debug\netcoreapp2.0\MyTestViajanet.Helpers.pdb
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.dll
+C:\Users\fabio\Desktop\Teste Fabio\MyTestViajanet\MyTestViajanet.Infra.Data\obj\Debug\netcoreapp2.0\MyTestViajanet.Infra.Data.pdb

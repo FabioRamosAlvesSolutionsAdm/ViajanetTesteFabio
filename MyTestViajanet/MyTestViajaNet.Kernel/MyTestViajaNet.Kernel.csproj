@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.0.3" />
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="2.0.1" />
+    <PackageReference Include="Ninject" Version="3.3.4" />
+    <PackageReference Include="NugetyCore.AspNetCore" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyTestViajanet.AppService\MyTestViajanet.AppService.csproj" />
+    <ProjectReference Include="..\MyTestViajaNet.DomainService\MyTestViajaNet.DomainService.csproj" />
+    <ProjectReference Include="..\MyTestViajanet.Helpers\MyTestViajanet.Helpers.csproj" />
+    <ProjectReference Include="..\MyTestViajanet.Infra.Data\MyTestViajanet.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

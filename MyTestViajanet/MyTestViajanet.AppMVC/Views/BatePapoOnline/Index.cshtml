@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MyTestViajanet.AppService.ViewModel.BatePapoOnlineViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Lista Dados de Acesso</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LugaresDisponiveis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PessoasOnline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataRegistro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LugaresDisponiveis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PessoasOnline)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataRegistro)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-default" asp-controller="BatePapoOnline" asp-action="Carregar">
+    Carregar
+</a>
